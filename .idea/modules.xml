@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algo_gameoflife/Algo_gameoflife.iml" filepath="$PROJECT_DIR$/Algo_gameoflife/Algo_gameoflife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Altklausur 2018 SS/Altklausur 2018 SS.iml" filepath="$PROJECT_DIR$/Altklausur 2018 SS/Altklausur 2018 SS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Altklausur 2019/Altklausur 2019.iml" filepath="$PROJECT_DIR$/Altklausur 2019/Altklausur 2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Altklausur 2021 Prog1/Altklausur 2021 Prog1.iml" filepath="$PROJECT_DIR$/Altklausur 2021 Prog1/Altklausur 2021 Prog1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Altklausur2018/Altklausur2018.iml" filepath="$PROJECT_DIR$/Altklausur2018/Altklausur2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Altklausur2021_Mai/Altklausur2021_Mai.iml" filepath="$PROJECT_DIR$/Altklausur2021_Mai/Altklausur2021_Mai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TikTakToe/TikTakToe.iml" filepath="$PROJECT_DIR$/TikTakToe/TikTakToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UebungsProjekt.iml" filepath="$PROJECT_DIR$/UebungsProjekt.iml" />
+    </modules>
+  </component>
+</project>
